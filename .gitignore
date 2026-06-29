@@ -1,0 +1,16 @@
+# Python sanal ortam klasörleri
+venv/
+.venv/
+env/
+
+# Derlenmiş Python dosyaları
+__pycache__/
+*.pyc
+
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Diğer
+.DS_Store
+.env
